@@ -16,7 +16,6 @@ Tópicos abordados:
 - AUC
 - Clearance
 - Volume de distribuição
-- Curva de Gauss e normalização de notas (contexto académico)
 
 Atualizações semanais.
 
